@@ -1,0 +1,21 @@
+.card {
+  border: 1px solid grey;
+  width: 250px;
+  min-height: 200px;
+  border-radius: 10px;
+  /* padding: 10px; */
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.header {
+  padding: 1px 5px;
+  background-color: #80808033;
+}
+.body {
+  padding: 5px;
+  color: green;
+  background-color: grey;
+}
+.hnew {
+  color: red;
+}
